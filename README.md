@@ -79,12 +79,20 @@ A reinforcement learning framework for RAG that escapes reasoning dead ends thro
 ### 📝 Selected Publications
 
 - **[ICLR 2026]** *AnesSuite: A Comprehensive Benchmark and Dataset Suite for Anesthesiology Reasoning in LLMs*
-  **Xiang Feng**\*, Wentao Jiang\*, Zengmao Wang, Yong Luo, Pingbo Xu, Baosheng Yu, Hua Jin, Jing Zhang
+  **Xiang Feng**\*, Wentao Jiang\*, Zengmao Wang, Yong Luo†, Pingbo Xu, Baosheng Yu, Hua Jin, Jing Zhang†
   [[Paper](https://openreview.net/forum?id=iKRQMeC7yO)] [[Code](https://github.com/MiliLab/AnesSuite)] [[Dataset](https://huggingface.co/datasets/MiliLab/AnesBench)]
 
 - **[arXiv 2025]** *REX-RAG: Reasoning Exploration with Policy Correction in Retrieval-Augmented Generation*
-  Wentao Jiang\*, **Xiang Feng**\*, Zengmao Wang, Yong Luo, Pingbo Xu, Zhe Chen, Bo Du, Jing Zhang
+  Wentao Jiang\*, **Xiang Feng**\*, Zengmao Wang, Yong Luo, Pingbo Xu, Zhe Chen, Bo Du, Jing Zhang†
   [[Paper](https://arxiv.org/abs/2508.08149)] [[Code](https://github.com/MiliLab/REX-RAG)]
+
+- **[Mathematics 2026]** *Decoding Mouse Visual Tasks via Hierarchical Neural-Information Gradients*
+  Jingyi Feng, **Xiang Feng**, Yong Luo†, Jing Li†
+  [[Paper](https://doi.org/10.3390/math14010031)]
+
+- **[IEEE TCSS 2023]** *Orthogonal-Moment-Based Attraction Measurement With Ocular Hints in Video-Watching Task*
+  Minqiang Yang, **Xiang Feng**, Rong Ma†, Xiongying Li, Chengsheng Mao
+  [[Paper](https://ieeexplore.ieee.org/document/10115293)]
 
 ---
 
