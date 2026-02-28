@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Xiang Feng (冯祥)</h1>
 
 <p align="center">
-  <a href="mailto:fengxiang0717@gmai.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:fengxiang0717@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/fengxiang777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
