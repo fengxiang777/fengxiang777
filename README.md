@@ -88,15 +88,6 @@ A reinforcement learning framework for RAG that escapes reasoning dead ends thro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fengxiang777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxiang777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fengxiang777&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
